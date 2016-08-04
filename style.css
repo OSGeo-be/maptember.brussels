@@ -1,0 +1,44 @@
+body, a {
+    color: #555;
+}
+
+.top-bar {
+    background-color: #074e68;
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+
+div#general-abstract {
+    margin-bottom: 0.5rem;
+    margin-top: 1rem;
+}
+
+div#hot, div#foss4g, div#sotm, div#hackday {
+    padding: 0.7rem;
+    text-align: justify;
+}
+
+div#hot {
+    background-color: #bcbcbc;
+}
+
+div#foss4g {
+    background-color: #bfff80;
+}
+
+div#sotm {
+    background-color: #b2e4ff;
+}
+
+div#hackday {
+    background-color: #ff7f91;
+}
