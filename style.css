@@ -22,25 +22,37 @@ div#general-abstract {
     margin-top: 2rem;
 }
 
-div#hot, div#foss4g, div#sotm, div#hackday {
+div#general-abstract, div#event-presentation {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+div#hot, div#foss4g, div#sotm, div#hackday, div#mapathon {
     padding: 0.7rem;
     text-align: justify;
 }
 
 div#hot {
-    background-color: #dcd8d6;
+    background-color: #D8D8D8;
+    blop: #dcd8d6;
+}
+
+div#mapathon {
+    background-color:#FFDBAF;
 }
 
 div#foss4g {
-    background-color:#b3ffcf;
+    background-color: #C2FFAF;
+    blop: #b3ffcf;
 }
 
 div#sotm {
-    background-color: #b3e3ff;
+    background-color: #B3E3FF;
 }
 
 div#hackday {
-    background-color: #ffb3bd;
+    background-color: #FFAFBA;
+    blop: #ffb3bd;
 }
 
 .bottom-bar {
@@ -48,11 +60,6 @@ div#hackday {
     background-color: #efe8e6;
     margin-top: 2rem;
     text-decoration: 700;
-}
-
-#hackday, #sotm, #foss4g, #hot {
-    margin-bottom: 0.5rem;
-    margin-top: 0.5rem;
 }
 
 #hackday-title {
