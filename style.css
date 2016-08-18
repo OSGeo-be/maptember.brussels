@@ -2,7 +2,7 @@ body {
     color: #555;
 }
 
-.top-bar, .top-bar a {
+.top-bar, .top-bar a, .top-bar ul {
     background-color: #074e68;
     color: #ffffff;
 }
