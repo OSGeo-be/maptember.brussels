@@ -29,7 +29,7 @@ div#general-abstract, div#event-presentation {
 
 div#hot, div#foss4g, div#sotm, div#hackday, div#mapathon {
     padding: 0.7rem;
-    text-align: justify;
+    text-align: left;
 }
 
 div#hot {
