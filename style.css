@@ -34,7 +34,6 @@ div#hot, div#foss4g, div#sotm, div#hackday, div#mapathon {
 
 div#hot {
     background-color: #D8D8D8;
-    blop: #dcd8d6;
 }
 
 div#mapathon {
@@ -43,7 +42,6 @@ div#mapathon {
 
 div#foss4g {
     background-color: #C2FFAF;
-    blop: #b3ffcf;
 }
 
 div#sotm {
@@ -62,13 +60,13 @@ div#hackday {
     text-decoration: 700;
 }
 
-#hackday-title {
+#hackday-title, #mapathon-title {
     color: #003;
     margin-bottom: 1.5rem;
     margin-top: 1.5rem;
     text-align: center;
 }
 
-#hackday-title h2 {
+#hackday-title h2, #mapathon-title h2 {
     color: #F66;
 }
